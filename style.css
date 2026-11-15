@@ -1,0 +1,27 @@
+/*==========
+1. ការកំណត់ទម្រង់់ទូទៅ.និ​ងអថេរពណ៏
+==========*/
+:root{
+    --bg-dark: #110b0c;
+    --bg-secondary: #1a0f12;
+    --card-bg: #261215;
+    --primary-red: #f12711;
+    --primary-hover: #d11e0a;
+    --text-white: #ffffff;
+    --text-gray: #b0a8aa;}
+
+    *{
+        margin: 0;
+        padding:0;
+        box-sizing: border-box;
+        font-family: 'poppins',sans-serif;}
+
+body{ 
+        background-color: var(--bg-dark);
+        color: var(--text-white);
+        overflow-x: hidden;}
+    .container{
+        max-width: 1140px; 
+        margin: 0 auto;
+        padding: 0 20px;}
+    /*==========រចនាប៊ូតុងចំណងជ់ើង==========*/
